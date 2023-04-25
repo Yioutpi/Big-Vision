@@ -1,4 +1,4 @@
-# Large scale Vision
+# Large-scale-Vision
 
 - SAM: Segment Anything [[`Paper`]](https://arxiv.org/abs/2304.02643) [[`Dataset`]](https://segment-anything.com/dataset/index.html)
   - SA-1B Dataset:
@@ -16,8 +16,20 @@
 - Large Scale Visual Food Recognition [[`Paper`]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10019590) [[`Dataset`]](http://123.57.42.89/FoodProject.html)
   - A new large-scale high-quality food recognition benchmark Food2K, which is the largest food image dataset with 2,000 categories and 1,036,564 images
 
+- LogoDet-3K: A Large-scale Image Dataset for Logo Detection [[`Paper`]](https://dl.acm.org/doi/pdf/10.1145/3466780) [[`Dataset`]](https://github.com/Wangjing1551/LogoDet-3K-Dataset)
+  -  A new large-scale logo dataset LogoDet-3K1 with 3,000 classes, 194,261 objects and 158,652 images, which is the largest logo classes with full annotation.
+
+- Objects365: A Large-scale, High-quality Dataset for Object Detection [[`Paper`]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Shao_Objects365_A_Large-Scale_High-Quality_Dataset_for_Object_Detection_ICCV_2019_paper.pdf) [[`Dataset`]](http://www.objects365.org/overview.html)
+  - Objects365 is a brand new dataset, designed to spur object detection research with a focus on diverse objects in the Wild.
+    365 categories
+    2 million images
+    30 million bounding boxes
+
+- TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild [[`Paper`]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Matthias_Muller_TrackingNet_A_Large-Scale_ECCV_2018_paper.pdf) [[`Dataset`]](https://tracking-net.org/)
+  - A Large-Scale Dataset and Benchmark for Object Tracking in the Wild.Large Scale Dataset > 30K Video Sequences, Object Tracking > 14M Bounding Boxes
 
 ---  
+## Multimodal
 - LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs [[`Paper`]](https://arxiv.org/abs/2111.02114) [[`Dataset`]](https://laion.ai/blog/laion-400-open-dataset/)
   - Number of unique samples 413M
 Number with height or width >= 1024 26M
@@ -30,3 +42,6 @@ Number with height and width >= 256 211M
 
 - Redcaps: Web-curated imagetext data created by the people, for the people  [[`Paper`]](https://arxiv.org/abs/2111.11431) [[`Dataset`]](https://redcaps.xyz/)
   -  12M image-text pairs
+
+- Wukong: A 100 Million Large-scale Chinese Cross-modal Pre-training Benchmark [[`Paper`]](https://arxiv.org/abs/2202.06767) [[`Dataset`]](https://wukong-dataset.github.io/wukong-dataset/)
+  - A large-scale Chinese VLP dataset with 100 million image-text pairs, covering a wide range of concepts.
