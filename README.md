@@ -28,6 +28,14 @@
 - TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild [[`Paper`]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Matthias_Muller_TrackingNet_A_Large-Scale_ECCV_2018_paper.pdf) [[`Dataset`]](https://tracking-net.org/)
   - A Large-Scale Dataset and Benchmark for Object Tracking in the Wild.Large Scale Dataset > 30K Video Sequences, Object Tracking > 14M Bounding Boxes
 
+- YouTube-VOS: A Large-Scale Video Object Segmentation Benchmark [[`Paper`]](https://arxiv.org/pdf/1809.03327.pdf) [[`Dataset`]](https://youtube-vos.org/)
+  -   It also has the following features.
+    5000+ high-resolution YouTube videos
+    90+ semantic categories
+    7800+ unique objects
+    190k+ high-quality manual annotations
+    340+ minutes duration
+
 ---  
 ## Multimodal
 - LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs [[`Paper`]](https://arxiv.org/abs/2111.02114) [[`Dataset`]](https://laion.ai/blog/laion-400-open-dataset/)
