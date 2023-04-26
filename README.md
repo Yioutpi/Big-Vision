@@ -80,5 +80,9 @@
   - A large-scale Chinese VLP dataset with 100 million image-text pairs, covering a wide range of concepts.
 
 
+- WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning [[`Paper`]](https://arxiv.org/pdf/2103.01913v2.pdf) [[`Dataset`]](https://github.com/google-research-datasets/wit/blob/main/DATA.md)
+  - A large multimodal multilingual dataset comprising 37M+ image-text sets with 11M+ unique images across 100+ languages
+
+
 - Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts [[`Paper`]](https://arxiv.org/pdf/2102.08981v2.pdf) [[`Dataset`]](https://github.com/google-research-datasets/conceptual-12m)
   - A dataset with ~12 million image-text pairs meant to be used for vision-and-language pre-trainin
