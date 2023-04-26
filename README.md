@@ -72,7 +72,11 @@
   Number with height and width >= 256 211M
 
 
-- Redcaps: Web-curated imagetext data created by the people, for the people  [[`Paper`]](https://arxiv.org/abs/2111.11431) [[`Dataset`]](https://redcaps.xyz/)
+- LAION-5B: An open large-scale dataset for training next generation image-text models [[`Paper`]](https://arxiv.org/abs/2111.02114) [[`Dataset`]](https://laion.ai/blog/laion-400-open-dataset/)
+  - A dataset of 5,85 billion CLIP-filtered image-text pairs, 14x bigger than LAION-400M
+
+
+- Redcaps: Web-curated imagetext data created by the people, for the people  [[`Paper`]](https://arxiv.org/pdf/2210.08402v1.pdf) [[`Dataset`]](https://laion.ai/blog/laion-5b/)
   -  12M image-text pairs
 
 
@@ -84,5 +88,17 @@
   - A large multimodal multilingual dataset comprising 37M+ image-text sets with 11M+ unique images across 100+ languages
 
 
+- COYO-700M: Image-Text Pair Dataset [[`Dataset`]](https://github.com/kakaobrain/coyo-dataset)
+  - A large-scale dataset that contains 747M image-text pairs
+
+
 - Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts [[`Paper`]](https://arxiv.org/pdf/2102.08981v2.pdf) [[`Dataset`]](https://github.com/google-research-datasets/conceptual-12m)
   - A dataset with ~12 million image-text pairs meant to be used for vision-and-language pre-trainin
+
+
+- ALIGN 1.8B: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision [[`Paper`]](https://arxiv.org/pdf/2102.05918.pdf)
+  - A large-Scale noisy image-Text dataset with 1.8B image-text pairs
+
+
+- ALT200M: Scaling Up Vision-Language Pre-training for Image Captioning [[`Paper`]](https://arxiv.org/pdf/2111.12233v2.pdf)
+  - A large-scale image-text dataset consisting of up to 200 million image-text pairs from web based on the alt attribute of the images
